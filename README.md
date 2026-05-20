@@ -1,3 +1,29 @@
-<h1 align="center">Hi there, I'm <a href="https://leenwood.space/" target="_blank">Georege</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+# Georgiy Perman
+
+Backend Engineer / Go Developer
+
+Building backend services, integrations and observability systems.
+
+## Stack
+
+Go • PostgreSQL • Redis • ClickHouse • RabbitMQ • Kafka
+Docker • Kubernetes • REST/gRPC • Prometheus • Grafana • Loki • Jaeger
+
+## Focus
+
+* Distributed systems
+* Event-driven architecture
+* Backend integrations
+* Observability
+* Product analytics infrastructure
+
+## Experience
+
+* Backend Developer at CDEK
+* Service owner for Developer Portal & Widget CDEK
+* Production systems, webhooks, retries, metrics, tracing
+
+## Contacts
+
+Telegram: @george_developer
+Email: [email@gperman.ru](mailto:email@gperman.ru)
