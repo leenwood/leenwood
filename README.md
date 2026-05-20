@@ -1,4 +1,4 @@
-# Georgiy Perman
+# George Perman
 
 Backend Engineer / Go Developer
 
@@ -25,5 +25,5 @@ Docker • Kubernetes • REST/gRPC • Prometheus • Grafana • Loki • Jaeg
 
 ## Contacts
 
-Telegram: @george_developer
+Telegram: @george_developer / @leenwood
 Email: [email@gperman.ru](mailto:email@gperman.ru)
