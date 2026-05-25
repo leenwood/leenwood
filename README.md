@@ -2,28 +2,58 @@
 
 Backend Engineer / Go Developer
 
-Building backend services, integrations and observability systems.
+Building backend systems, integrations and observability infrastructure.
+
+---
 
 ## Stack
 
-Go • PostgreSQL • Redis • ClickHouse • RabbitMQ • Kafka
-Docker • Kubernetes • REST/gRPC • Prometheus • Grafana • Loki • Jaeger
+**Backend:**  
+Go • Java • REST • gRPC • OpenAPI • GraphQL
+
+**Databases:**  
+PostgreSQL • Redis • ClickHouse • MySQL • MongoDB
+
+**Messaging:**  
+Kafka • RabbitMQ
+
+**Infrastructure:**  
+Docker • Kubernetes • Linux • Nginx • GitLab CI/CD
+
+**Observability:**  
+Prometheus • Grafana • Loki • Jaeger • VictoriaMetrics • pprof
+
+---
 
 ## Focus
 
-* Distributed systems
-* Event-driven architecture
-* Backend integrations
-* Observability
-* Product analytics infrastructure
+- Distributed systems
+- Event-driven architecture
+- Backend integrations
+- Observability
+- Production reliability
+- Product analytics infrastructure
+
+---
 
 ## Experience
 
-* Backend Developer at CDEK
-* Service owner for Developer Portal & Widget CDEK
-* Production systems, webhooks, retries, metrics, tracing
+### :contentReference[oaicite:0]{index=0}
+Backend Developer  
+Developer Portal • Widget CDEK • Webhooks • Kafka/RabbitMQ • Observability
+
+### :contentReference[oaicite:1]{index=1}
+Backend Developer  
+Distributed services • ClickHouse • Kubernetes • Async processing
+
+### :contentReference[oaicite:2]{index=2}
+Backend Developer  
+B2B platform • REST integrations • RabbitMQ • Service architecture
+
+---
 
 ## Contacts
 
-Telegram: @george_developer / @leenwood
-Email: [email@gperman.ru](mailto:email@gperman.ru)
+- Telegram: [@george_developer](https://t.me/george_developer)
+- GitHub: [github.com/leenwood](https://github.com/leenwood)
+- Email: email@gperman.ru
