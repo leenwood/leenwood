@@ -8,19 +8,19 @@ Building backend systems, integrations and observability infrastructure.
 
 ## Stack
 
-**Backend:**  
+**Backend**  
 Go • Java • REST • gRPC • OpenAPI • GraphQL
 
-**Databases:**  
+**Databases**  
 PostgreSQL • Redis • ClickHouse • MySQL • MongoDB
 
-**Messaging:**  
+**Messaging**  
 Kafka • RabbitMQ
 
-**Infrastructure:**  
+**Infrastructure**  
 Docker • Kubernetes • Linux • Nginx • GitLab CI/CD
 
-**Observability:**  
+**Observability**  
 Prometheus • Grafana • Loki • Jaeger • VictoriaMetrics • pprof
 
 ---
@@ -38,16 +38,19 @@ Prometheus • Grafana • Loki • Jaeger • VictoriaMetrics • pprof
 
 ## Experience
 
-### :contentReference[oaicite:0]{index=0}
-Backend Developer  
+### CDEK
+Backend Developer
+
 Developer Portal • Widget CDEK • Webhooks • Kafka/RabbitMQ • Observability
 
-### :contentReference[oaicite:1]{index=1}
-Backend Developer  
+### Goulash.Tech
+Backend Developer
+
 Distributed services • ClickHouse • Kubernetes • Async processing
 
-### :contentReference[oaicite:2]{index=2}
-Backend Developer  
+### Artsofte
+Backend Developer
+
 B2B platform • REST integrations • RabbitMQ • Service architecture
 
 ---
